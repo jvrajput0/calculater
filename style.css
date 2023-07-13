@@ -42,7 +42,7 @@
     margin: 0;
     padding: 0;
     color: var(--text);
-
+    user-select: none;
 }
 
 .switch-holder {
